@@ -1,1 +1,1 @@
-Submission Proyek Membangun Web Server pada kelas "Belajar Jaringan Komputer untuk Pemula" dari Dicoding
+This is the final assignment for the "Learning Computer Networks for Beginners" course. I am creating a web server as part of my class assignment. I cloned the GitHub repository provided by Dicoding, installed NGINX for accessibility, and configured it as a reverse proxy server. I also set access limits to increase security by changing the NGINX port to 3000, limiting requests to 6 per minute, and modifying the Node.js server response to show the participant's full name
